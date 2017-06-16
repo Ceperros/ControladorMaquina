@@ -13,14 +13,14 @@ import ventanas.Mensaje;
  * @author david
  */
 public class Global {
-    public static String direccionFtp = "ZnRwLnNtYXJ0cG9pbnQuY2w=";
-    public static String usuarioFtp = "c21hcnRwb2ludGZ0cEBzbWFydHBvaW50LmNs";
-    public static String passwordFtp = "MTIzNDU=";
-    public static String direccionMySQL = "NTAuODcuMTQ0LjIyNjozMzA2";
-    public static String baseDeDatos = "c21hcnRwb2lfU21hcnRQb2ludFR3bw==";
-    public static String usuarioMySQL = "c21hcnRwb2lfc210";
-    public static String passwordMySQL = "c210MjAxNw==";
-    public static String directorioVideos = "";
+    public static String direccionFtp = ;
+    public static String usuarioFtp = ;
+    public static String passwordFtp = ;
+    public static String direccionMySQL = ;
+    public static String baseDeDatos = ;
+    public static String usuarioMySQL = ;
+    public static String passwordMySQL = ;
+    public static String directorioVideos = ;
     public static float carga = 0;
 
     public static String Encriptar(String in) {
